@@ -1,0 +1,13 @@
+Student Name: Malak Louardi
+
+What I practiced in the shell:
+I practiced creating files and organizing them into folders. I used commands to list files and redirect command output into a text file. I learned how wildcards can select multiple files that match a pattern. I also practiced copying files into another directory. These exercises helped me understand how shell commands can automate repetitive tasks.
+
+How GitHub changed my submission habits:
+GitHub helped me organize my work in a repository with clear file paths. I learned that filenames and repository names must match the assignment requirements. I also practiced using commits to record changes. Branches allow me to work on changes separately from the main version. Pull requests provide a way to review changes before merging them.
+
+One mistake I made and how I fixed it:
+At first, I was not sure where to create the required files. I checked the repository structure and followed the specified paths. I used mkdir -p to create the necessary folders. I then checked the file locations before staging my changes. This helped me organize the submission correctly.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to match the assignment instructions exactly. Using the required name makes the submission easier to identify and verify. A different name could cause confusion during grading.
