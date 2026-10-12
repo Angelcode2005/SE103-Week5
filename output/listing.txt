@@ -1,0 +1,9 @@
+total 32
+drwxrwxrwx+ 7 codespace root 4096 Oct 12 00:52 .
+drwxr-xrwx+ 5 codespace root 4096 Oct 12 00:53 ..
+drwxrwxrwx+ 8 codespace root 4096 Oct 12 01:05 .git
+-rw-rw-rw-  1 codespace root   74 Oct 12 00:52 README.md
+drwxrwxrwx+ 2 codespace root 4096 Oct 12 00:54 notes
+drwxrwxrwx+ 2 codespace root 4096 Oct 12 01:05 output
+drwxrwxrwx+ 2 codespace root 4096 Oct 12 01:04 reflections
+drwxrwxrwx+ 3 codespace root 4096 Oct 12 01:05 shell_practice
