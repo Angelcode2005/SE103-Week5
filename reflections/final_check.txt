@@ -1,0 +1,7 @@
+Student Name: Malak Louardi
+GitHub Username: YOUR_GITHUB_USERNAME
+Repository: SE103-Week5
+Repository URL: https://github.com/YOUR_GITHUB_USERNAME/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time, I would check the repository structure more frequently while completing the assignment. I would also verify every required file on the main branch before submitting my work.
