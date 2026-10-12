@@ -1,1 +1,9 @@
-This is the find_result file for SE103-Week5.
+shell_practice/data1.txt
+shell_practice/wildcard_copies/data1.txt
+shell_practice/wildcard_copies/data3.txt
+shell_practice/wildcard_copies/data2.txt
+shell_practice/data3.txt
+shell_practice/journal.txt
+shell_practice/data2.txt
+shell_practice/alpha.txt
+shell_practice/beta.txt

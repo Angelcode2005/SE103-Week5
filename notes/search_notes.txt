@@ -1,17 +1,13 @@
 Student Name: Malak Louardi
 
 What grep helped me do:
-
-grep helped me search for specific words in a file. I used it to find lines containing the word error in journal.txt. The -n option also helped me identify the line numbers.
+grep helped me search for specific text inside files. I used it to find lines containing the word error in journal.txt. The -n option displays the matching line numbers.
 
 What find helped me do:
-
-find helped me locate files by their names and extensions. I used it to search for files ending in .txt inside shell_practice. This helped me identify the text files in my repository.
+find helped me locate all text files inside the shell_practice directory. I saved the results in find_results.txt so I could review which files were found.
 
 What the pipe helped me do:
-
-The pipe | allowed me to send the output of one command to another command. I used ls shell_practice | grep ".txt" to filter filenames containing .txt. This helped me display matching filenames.
+The pipe sent the output of ls shell_practice to grep. This allowed me to filter the listed filenames and display only those containing the literal text .txt.
 
 Difference between > and >>:
-
-The > operator writes output to a file and replaces its existing contents. The >> operator adds new output to the end of a file without removing previous content. I used these operators to create and update my journal.
+The > operator creates a file or replaces its existing contents. The >> operator appends new output to the end of a file without replacing its existing contents.
